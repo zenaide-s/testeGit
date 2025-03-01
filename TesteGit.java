@@ -1,5 +1,7 @@
 public class TesteGit{
 	public static void main(String[] args){
-		System.out.println("Estou funcionando");
+		for(int a = 0; a <= 1000; a++){
+			System.out.println("Contador = "+a);
+		}	
 	}
 }
